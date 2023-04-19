@@ -30,6 +30,7 @@ const Play = () => {
         console.log("onSendTransaction", amount);
         await connectWallet();
 
+        amount = Number(amount.toFixed(4));
         console.log("Request Transaction", amount);
         const op = await tezos.wallet
           .transfer({ to: "tz1M2hCvF5AhhbQAkn3LcZ8DTNBggyAKTCvo", amount })
