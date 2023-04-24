@@ -3,7 +3,7 @@
 
 ### LIVE DEMO 
 
-https://tac-man.netlify.app/
+![https://user-images.githubusercontent.com/2120817/233948271-2af7a8b9-4d0e-4efe-92bc-d21f58d3a855.gif](https://tac-man.netlify.app/)
 
 ### This is the public open-source repo of TACMAN - Classic Arcade Coin-Op on Tezos
 
