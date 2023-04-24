@@ -102,3 +102,20 @@ dist
 
 # TernJS port file
 .tern-port
+build/asset-manifest.json
+build/Build/public.data.unityweb
+build/Build/public.framework.js.unityweb
+build/Build/public.loader.js
+build/Build/public.wasm.unityweb
+build/index.html
+build/static/js/2.134d65bb.chunk.js
+build/static/js/2.134d65bb.chunk.js.LICENSE.txt
+build/static/js/2.134d65bb.chunk.js.map
+build/static/js/2.34352c69.chunk.js
+build/static/js/2.34352c69.chunk.js.LICENSE.txt
+build/static/js/2.34352c69.chunk.js.map
+build/static/js/3.decebf1b.chunk.js.map
+build/static/js/main.095a0901.chunk.js
+build/static/js/main.095a0901.chunk.js.map
+build/static/js/main.d8aa73a4.chunk.js
+build/static/js/main.d8aa73a4.chunk.js.map
