@@ -1,7 +1,7 @@
 # TACMAN
 ![kbp_pacman256_banner2](https://user-images.githubusercontent.com/2120817/233927879-f9b869b1-cfb0-4c51-b16a-f8e0ac5f30c1.jpg)
 
-# LIVE DEMO 
+### LIVE DEMO 
 
 https://tac-man.netlify.app/
 
